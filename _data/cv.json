@@ -2,9 +2,9 @@
   "basics": {
     "name": "Sanghun Shin",
     "email": "shin2@snu.ac.kr",
-    "phone": "",
+    "phone": "+82-10-9419-9471",
     "website": "https://qender.github.io",
-    "summary": "Ph.D. candidate in the Technology Management, Economics and Policy Program (TEMEP) at Seoul National University. Research interests in applied artificial intelligence, social simulation, and computational modeling of complex societal dynamics.",
+    "summary": "Ph.D. candidate in the Technology Management, Economics and Policy Program (TEMEP) at Seoul National University, specializing in computational modeling of complex socio-technical systems. Dissertation: The Cascade Paradox.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -20,26 +20,98 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Dongwha Pharm",
+      "position": "Strategic Planning & Financial Analysis",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "2019",
+      "summary": "M&A due diligence, R&D portfolio review, and open innovation assessment. Financial modeling and time-series forecasting for investment decisions.",
+      "highlights": [
+        "M&A due diligence, R&D portfolio review, and open innovation assessment",
+        "Financial modeling and time-series forecasting for investment decisions",
+        "Executive decision support and corporate strategy development"
+      ]
+    },
+    {
+      "company": "Asan Medical Center",
+      "position": "Research Scientist, Medical AI & Big Data",
+      "website": "",
+      "startDate": "2013",
+      "endDate": "2014",
+      "summary": "Developed AI-guided brain diagnostic systems using medical imaging (MRI, fMRI, PET, CT). Participated in surgical navigation algorithm development for da Vinci robotic surgery system.",
+      "highlights": [
+        "Developed AI-guided brain diagnostic systems using MRI, fMRI, PET, CT",
+        "Surgical navigation algorithm development for da Vinci robotic surgery system"
+      ]
+    },
+    {
+      "company": "NSF-funded Research Group, University of Wisconsin-Madison",
+      "position": "Research Scientist, Materials Chemistry Lab",
+      "website": "",
+      "startDate": "2011",
+      "endDate": "2012",
+      "summary": "Developed epitaxial heterostructures of quantum dots for photovoltaic applications.",
+      "highlights": [
+        "Developed epitaxial heterostructures of lead selenide quantum dots on hematite nanowires",
+        "Solved 3-year persistent research challenge, leading to publication in J. Phys. Chem. Lett."
+      ]
+    },
+    {
+      "company": "Republic of Korea Army (ROKA)",
+      "position": "Aide-de-camp to a 4-Star General, ROK-US Combined Forces Command (CFC)",
+      "website": "",
+      "startDate": "2007",
+      "endDate": "2009",
+      "summary": "Coordinated high-level military communications and diplomatic protocols.",
+      "highlights": [
+        "Coordinated high-level military communications and diplomatic protocols",
+        "Assisted in strategic operations and administrative management"
+      ]
+    }
+  ],
   "education": [
     {
       "institution": "Seoul National University",
-      "area": "Ph.D. Candidate, Technology Management, Economics and Policy Program (TEMEP)",
+      "area": "Ph.D. Candidate, Technology Management, Economics and Policy Program (TEMEP), College of Engineering. Dissertation: The Cascade Paradox. Advisor: Prof. Junseok Hwang",
       "studyType": "Ph.D.",
-      "startDate": "2022",
+      "startDate": "2020",
       "endDate": "",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Seoul National University",
+      "area": "Graduate School of Business",
+      "studyType": "M.S.",
+      "startDate": "2020",
+      "endDate": "2022",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Wisconsin-Madison",
+      "area": "Department of Chemistry",
+      "studyType": "B.S.",
+      "startDate": "2005",
+      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [
     {
-      "name": "Research Methods",
-      "keywords": ["Agent-Based Modeling", "PLS-SEM", "Artificial Neural Network", "Structural Equation Modeling", "Survey Research"]
+      "name": "Programming",
+      "keywords": ["Python", "R", "MATLAB", "NetLogo", "JavaScript", "Linux"]
     },
     {
-      "name": "Research Areas",
-      "keywords": ["Applied AI", "Social Simulation", "Technology Acceptance", "Smart City", "Wearable Robotics"]
+      "name": "Simulation",
+      "keywords": ["Agent-Based Modeling", "Discrete Elastic Rods (DER)", "Social Force Model", "GPU computing"]
+    },
+    {
+      "name": "Data Science",
+      "keywords": ["Time-series forecasting", "Network analysis", "Medical image processing", "PLS-SEM", "ANN"]
     }
   ],
   "languages": [
@@ -52,15 +124,57 @@
       "fluency": "Professional"
     }
   ],
-  "interests": [],
-  "references": [],
+  "interests": [
+    { "name": "Human-AI Hybrid Networks" },
+    { "name": "Agent-Based Modeling" },
+    { "name": "Smart Textiles & Wearable Robotics" },
+    { "name": "Nanomaterials & Biomedical Engineering" }
+  ],
+  "references": [
+    {
+      "name": "Prof. Junseok Hwang (Advisor)",
+      "reference": "Professor, Technology Management, Economics and Policy Program, Seoul National University. jshwang@snu.ac.kr"
+    },
+    {
+      "name": "Prof. Soo-Min Lee",
+      "reference": "Assistant Professor, Department of Clothing & Textiles, Kyung Hee University. eeoom@khu.ac.kr"
+    }
+  ],
   "publications": [
     {
-      "name": "Modeling User Behavioural Intention and Usage Behaviour for Wearable Robots: A UTAUT2-Integrated SEM and ANN Approach",
-      "publisher": "Universal Access in the Information Society",
+      "name": "Evaluating Gait Analysis Techniques for Wearable Robotics in Smart Urban Environments: A Comprehensive Review",
+      "publisher": "Gait & Posture (Under Review)",
       "releaseDate": "2025",
       "website": "",
-      "summary": "Analyzed key factors influencing user behavioural intention and usage behaviour for wearable robot technology using a UTAUT2-integrated PLS-SEM and ANN framework applied to survey data from 200 adults."
+      "summary": "Under review. First author."
+    },
+    {
+      "name": "Modeling User Behavioural Intention and Usage Behaviour for Wearable Robots: A UTAUT2-Integrated SEM and ANN Approach",
+      "publisher": "Universal Access in the Information Society (Under Review)",
+      "releaseDate": "2025",
+      "website": "",
+      "summary": "Under review. First author."
+    },
+    {
+      "name": "Bioresorbable Electronic Stent Integrated with Therapeutic Nanoparticles for Endovascular Diseases",
+      "publisher": "ACS Nano, 9(6), 5937-5946",
+      "releaseDate": "2015",
+      "website": "https://doi.org/10.1021/acsnano.5b00651",
+      "summary": "IF: 13.9"
+    },
+    {
+      "name": "Epitaxial Heterostructures of Lead Selenide Quantum Dots on Hematite Nanowires",
+      "publisher": "Journal of Physical Chemistry Letters, 3, 1649-1656",
+      "releaseDate": "2012",
+      "website": "https://doi.org/10.1021/jz300477a",
+      "summary": "IF: 9.4"
+    },
+    {
+      "name": "New Method for Determining the Coiling Ratio of Planktonic Foraminifera Using Digital Image Analysis",
+      "publisher": "Samsung Humantech Paper Award - Grand Prize",
+      "releaseDate": "2004",
+      "website": "",
+      "summary": "First author. Grand Prize."
     }
   ],
   "presentations": [],

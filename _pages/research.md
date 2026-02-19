@@ -4,18 +4,55 @@ title: "Research"
 author_profile: true
 ---
 
-My research goal is to combine **applied artificial intelligence** and **social simulation** to study complex societal dynamics. I develop novel computational frameworks that integrate agent-based modeling and advanced AI techniques to analyze emergent patterns in social systems and design intelligent solutions for real-world challenges.
+## Dissertation: The Cascade Paradox
 
-A key focus of my work is exploring how **emerging technologies**—including wearable robotics, smart city infrastructure, and AI-driven systems—transform future communities and how individuals and societies respond to and adopt these technologies.
+*The Cascade Paradox: Complexity and Criticality in Scaled Systems* (2020–Present, Advisor: Prof. Junseok Hwang)
 
-## Technology Acceptance & Wearable Robotics
+This dissertation investigates emergent phenomena in **human-AI hybrid networks** using agent-based modeling. Key findings include:
+- **Affective pathway dominance** (89% mediation) in trust dynamics
+- **Protective network segregation** as an emergent self-organizing behavior in AI-integrated social systems
 
-One of my current research streams investigates the factors that determine user acceptance and adoption of wearable robot technology. Using a UTAUT2-integrated SEM and ANN approach, I analyzed data from 200 adults to identify the critical predictors of behavioural intention and actual usage behaviour.
+The work contributes a formal computational account of how affective channels can dominate information-rational pathways in human-AI co-systems, with implications for AI governance and sociotechnical design.
 
-Key findings reveal that **habit** is the dominant predictor of wearable robot adoption, followed by performance expectancy, price value, and hedonic motivation. These insights have practical implications for designers and policymakers aiming to promote the diffusion of assistive robotics in everyday life.
+---
 
-**Keywords:** Artificial Neural Network (ANN) · Structural Equation Modeling (SEM) · Technology Acceptance · UTAUT2 · Wearable Robotics
+## Current Projects
 
-## Agent-Based Modeling & Complex Societal Dynamics
+### SMA Active Knit Simulation (2024–Present)
+*(Collaboration with Prof. Soo-Min Lee, Kyung Hee University)*
 
-I am also engaged in research that employs agent-based modeling (ABM) to simulate emergent social phenomena. This work explores how individual-level behaviors and interactions give rise to macro-level societal patterns, offering insights for policy planning and intervention design in domains such as urban systems and smart cities.
+GPU-accelerated **Discrete Elastic Rods (DER)** simulation for topological jamming mechanics in shape memory alloy (SMA) knitted actuators. This project bridges computational mechanics and smart textile design, targeting morphological computation in soft robotics.
+
+**Target journal:** *Journal of Industrial Textiles*
+
+### Pedestrian-Exoskeleton Crosswalk Simulation (2024–Present)
+
+Agent-based modeling of mixed pedestrian populations interacting with exoskeleton users at urban crosswalks using the **Social Force Model**. Safety metrics include Time-to-Collision (TTC) and Post-Encroachment Time (PET).
+
+**Target journal:** *Gait & Posture*
+
+### Wearable Robotics User Acceptance (2024–Present)
+
+Empirical investigation of factors driving **user behavioural intention and usage behaviour** for wearable robots, combining PLS-SEM and Artificial Neural Network (ANN) methods within the UTAUT2 framework.
+
+---
+
+## Past Research
+
+### Medical AI & Big Data — Asan Medical Center (2013–2014)
+- AI-guided brain diagnostic systems using MRI, fMRI, PET, CT imaging
+- Surgical navigation algorithm development for da Vinci robotic surgery system
+
+### Nanomaterials — NSF Lab, UW-Madison (2011–2012)
+- Epitaxial heterostructures of lead selenide quantum dots on hematite nanowires for photovoltaic applications
+- Published in *Journal of Physical Chemistry Letters* (IF: 9.4)
+
+---
+
+## Technical Skills
+
+**Programming:** Python · R · MATLAB · NetLogo · JavaScript · Linux
+
+**Simulation:** Agent-Based Modeling · Discrete Elastic Rods (DER) · Social Force Model · GPU computing
+
+**Data Science:** Time-series forecasting · Network analysis · Medical image processing

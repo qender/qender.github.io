@@ -14,7 +14,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Sanghun Shin"
   pronouns         :
-  bio              : "Ph.D. Candidate in Technology Management, Economics and Policy Program (TEMEP)"
+  bio              : "Ph.D. Candidate, TEMEP, College of Engineering, Seoul National University. Dissertation: The Cascade Paradox. Advisor: Prof. Junseok Hwang"
   location         : "Seoul, Republic of Korea"
   employer         : "Seoul National University"
   uri              :
@@ -72,9 +72,7 @@ author:
 # Publication Category
 publication_category:
   manuscripts:
-    title: 'Journal Articles'
-  conferences:
-    title: 'Conference Papers'
+    title: 'Peer-Reviewed Journal Articles'
 
 # Site Settings
 teaser                   :
