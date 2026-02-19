@@ -8,12 +8,12 @@ date: 2025-09-01
 venue: 'Gait & Posture (Target)'
 status: 'In Progress'
 paperurl:
-citation: 'Shin, S., & Hwang, J. (2025). Agent-based simulation of pedestrian-exoskeleton interactions at urban crosswalks. <i>Gait & Posture</i>. (In preparation, First author)'
+citation: 'Shin, S., Hwang, J., & Lee, S. M. (2025). Agent-based simulation of pedestrian-exoskeleton interactions at urban crosswalks. <i>Gait & Posture</i>. (In preparation, First author)'
 ---
 
 **Status:** In Preparation
 
-**Authors:** Sanghun Shin (First author), Junseok Hwang
+**Authors:** Sanghun Shin (First author), Junseok Hwang, Soo-Min Lee
 
 **Target Journal:** Gait & Posture
 
